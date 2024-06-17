@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I’m Swapnil Tak, a passionate software engineer based in Jaipur, India. With a strong foundation in computer science, I thrive on solving complex problems and creating elegant solutions. Here’s a glimpse into my journey:<br><br>- 🔭 I’m currently doing my degree in Computer Science.<br>- 📚 I'm currently learning Full-stack web development.<br>- ⚡ In my free time ,When I’m not coding, I enjoy reading tech blogs, exploring new libraries, and sipping chai.<br><br>Feel free to connect with me on LinkedIn or Twitter. Let’s build amazing things together! 🚀</p>
+<p align="left">I’m Swapnil Tak, a passionate software engineer based in Jaipur, India. With a strong foundation in computer science, I thrive on solving complex problems and creating elegant solutions. Here’s a glimpse into my journey:<br><br>- 🔭 I’m currently doing my degree in Computer Science.<br>- 📚 I'm currently learning Full-stack web development.<br>- ⚡ In my free time ,When I’m not coding, I enjoy reading tech blogs, exploring new libraries, and sipping chai.<br><br>Feel free to connect with me on LinkedIn or Twitter. Let’s build amazing things together! 🚀<br>- 💬 Dev Quote: “In the words of Harvey Specter, ‘Your work mirrors who you are. Own it, and you’ll see that pride echoed back from every corner of this city.’”</p>
 
 ###
 
